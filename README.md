@@ -3,10 +3,10 @@
 ## 🚀 About me
 I'm a junior developer with a passion for building web applications using React and Node.js for the backend. I'm constantly learning new front-end and back-end technologies to enhance my skills and contribute to exciting projects.
 
-## 🔎 Technologies & tools
--Frontend: React, JavaScript,typeScript, HTML, CSS
--Backend: Express.js, Nest.js, Node.js, MongoDB, PostgreSQL
--Tools: Git, GitHub, VSCode, npm, Postman
+## 🔎 Technologies & Tools
+Frontend: React, JavaScript, TypeScript, HTML, CSS
+Backend: Node.js, Express.js, NestJS, MongoDB, PostgreSQL
+Tools: Git, GitHub, VS Code, npm, Postman
 
 ## 🌱 Currently learning
 - Advanced React Patterns
