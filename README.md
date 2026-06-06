@@ -6,9 +6,7 @@ I'm a junior developer with a passion for building web applications using React 
 ## 🔎 Technologies & Tools
 
 - **Frontend:** React, JavaScript, TypeScript, HTML, CSS
-- 
 - **Backend:** Node.js, Express.js, NestJS, MongoDB, PostgreSQL
-
 - **Tools:** Git, GitHub, VS Code, npm, Postman
 
 ## 🌱 Currently learning
