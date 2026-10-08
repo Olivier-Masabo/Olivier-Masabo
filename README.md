@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🚀 About me
-I'm a junior developer with a passion for building web applications using React and Node.js for the backend. I'm constantly learning new front-end and back-end technologies to enhance my skills and contribute to exciting projects.
+I'm a junior developer with a passion for building web applications using React for frontend and Node.js for the backend. I'm constantly learning new front-end and back-end technologies to enhance my skills and contribute to exciting projects.
 
 ## 🔎 Technologies & Tools
 
