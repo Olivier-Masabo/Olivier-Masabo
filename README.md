@@ -14,6 +14,7 @@ I'm a junior developer with a passion for building web applications using React 
 - State Management (Redux Toolkit)
 - Backend Architecture & API Design
 - Database Optimization
+- Typescript under the hood 
 
 
 ## 🎯 Goals
